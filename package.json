@@ -1,0 +1,32 @@
+{
+  "name": "aetherwild",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AETHERWILD — a browser Resonant survey RPG. Original IP. Procedural art and audio.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node tools/run.mjs dev",
+    "build": "node tools/run.mjs build",
+    "preview": "node tools/run.mjs preview",
+    "typecheck": "node tools/run.mjs typecheck",
+    "test": "node tools/run.mjs test",
+    "validate-content": "node tools/run.mjs ssr tools/validate-content.ts",
+    "fuzz-battle": "node tools/run.mjs ssr tools/fuzz-battle.ts",
+    "name-check": "node tools/run.mjs ssr tools/name-check.ts",
+    "render-sheet": "node tools/render-sheet.mjs",
+    "asset-scan": "node tools/run.mjs ssr tools/asset-scan.ts",
+    "ip-scan": "node tools/ip-scan.mjs",
+    "gen-content": "node tools/run.mjs ssr tools/gen-content.ts",
+    "e2e": "node tools/run.mjs e2e",
+    "verify": "npm run typecheck && npm test && npm run validate-content && npm run fuzz-battle && npm run build && npm run asset-scan && npm run ip-scan && npm run e2e"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.48.2",
+    "typescript": "5.6.3",
+    "vite": "5.4.11",
+    "vitest": "2.1.8"
+  }
+}

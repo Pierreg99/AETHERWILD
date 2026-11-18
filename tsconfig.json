@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "useDefineForClassFields": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "vitest": ["types/vitest.d.ts"],
+      "vitest/config": ["types/vitest-config.d.ts"],
+      "vite": ["types/vite.d.ts"],
+      "node:fs": ["types/node-fs.d.ts"],
+      "node:path": ["types/node-path.d.ts"]
+    }
+  },
+  "include": ["src", "tools", "types", "vite.config.ts", "playwright.config.ts", "vitest.config.ts"]
+}

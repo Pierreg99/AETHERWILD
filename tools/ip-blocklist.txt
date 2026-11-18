@@ -1,0 +1,278 @@
+# Forbidden substrings. One entry per line. Lines starting with # are ignored.
+# Short tokens that collide with ordinary words are matched on word boundaries by ip-scan.
+pokemon
+pokémon
+pikachu
+charizard
+bulbasaur
+squirtle
+blastoise
+venusaur
+mewtwo
+pokeball
+pokéball
+poke ball
+great ball
+ultra ball
+master ball
+pokedex
+pokédex
+pokedollar
+nidoran
+gengar
+munchlax
+eevee
+umbreon
+espeon
+blaziken
+greninja
+lucario
+rayquaza
+groudon
+kyogre
+snorlax
+tangela
+dratini
+machamp
+golem
+onix
+scyther
+dragonite
+aerodactyl
+tyranitar
+metagross
+alakazam
+machoke
+gastly
+haunter
+poliwrath
+kabutops
+rhydon
+ditto
+farfetchd
+jigglypuff
+charmander
+charmander
+wartortle
+ivysaur
+psyduck
+magikarp
+gyarados
+mew
+articuno
+zapdos
+moltres
+celebi
+jirachi
+arceus
+dialga
+palkia
+giratina
+darkrai
+reshiram
+zekrom
+kyurem
+xerneas
+yveltal
+zacian
+zamazenta
+koraidon
+miraidon
+ash ketchum
+gary oak
+professor oak
+team rocket
+pallet town
+indigo plateau
+kanto
+johto
+hoenn
+sinnoh
+unova
+kalos
+alola
+galar
+paldea
+ultra beast
+gym badge
+elite four
+masterball
+pokecenter
+pokemart
+nuzlocke
+fakemon
+digimon
+agumon
+gabumon
+yugioh
+magic the gathering
+wizard of oz
+super mario
+link zelda
+poké
+pokegear
+pokedex
+pokeballs
+charmeleon
+charizard
+blastoise
+venusaur
+squirtle
+bulbasaur
+pikachu
+raichu
+sandshrew
+nidoqueen
+nidoking
+clefable
+ninetales
+wigglytuff
+zubat
+golbat
+oddish
+vileplume
+parasect
+venonat
+venomoth
+dugtrio
+meowth
+persian
+golduck
+primeape
+arcanine
+poliwag
+poliwhirl
+abra
+kadabra
+alakazam
+machop
+bellsprout
+weepinbell
+victreebel
+tentacool
+tentacruel
+geodude
+graveler
+ponytail
+rapidash
+slowpoke
+slowbro
+magnemite
+magneton
+farfetch
+doduo
+dodrio
+seel
+dewgong
+grimer
+muk
+shellder
+cloyster
+gastly
+haunter
+gengar
+onix
+drowzee
+hypno
+krabby
+kingler
+voltorb
+electrode
+exeggcute
+exeggutor
+cubone
+marowak
+hitmonlee
+hitmonchan
+lickitung
+koffing
+weezing
+rhyhorn
+rhydon
+chansey
+tangela
+kangaskhan
+horsea
+seadra
+goldeen
+seaking
+staryu
+starmie
+mrmime
+scyther
+jynx
+electabuzz
+magmar
+pinsir
+tauros
+magikarp
+gyarados
+lapras
+ditto
+eevee
+vaporeon
+jolteon
+flareon
+porygon
+omanyte
+omastar
+kabuto
+kabutops
+aerodactyl
+snorlax
+articuno
+zapdos
+moltres
+dratini
+dragonair
+dragonite
+mewtwo
+mew
+chikorita
+cyndaquil
+totodile
+lugia
+hooh
+ho-oh
+treecko
+torchic
+mudkip
+rayquaza
+groudon
+kyogre
+turtwig
+chimchar
+piplup
+snivy
+tepig
+oshawott
+chespin
+fennekin
+froakie
+rowlet
+litten
+popplio
+grookey
+scorbunny
+sobble
+sprigatito
+fuecoco
+quaxly
+trainer red
+trainer blue
+oak's parcel
+pokeflute
+master ball
+safari ball
+nest ball
+net ball
+dive ball
+dusk ball
+quick ball
+heal ball
+luxury ball
+premier ball
+beast ball
+gs ball
+poke ball
+poké ball
